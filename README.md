@@ -14,7 +14,7 @@ I enjoy outdoors, I find crime shows and stories interesting, I love to watch sp
 ```mermaid
 flowchart TD
     A[ Hair Business] -->|Find a Vendor| B( Choose a Hair Vendor)
-    B --> C{Hair Origin will you sell?}
+    B --> C{ Which origin of hair will you sell?}
     C -->|One| D[Indian]
     C -->|Two| E[Malaysian]
     D --> F[Raw Hair Bundles]
